@@ -1,25 +1,22 @@
+<h1>Olá, eu sou Marcelo Leda! 👋</h1>
 
-<h1>Hello! I am Marcelo Leda! 🙃</h1>
+<p>Desenvolvedor de software apaixonado por construir produtos que resolvem problemas reais. Atualmente desenvolvendo o <b>Vesta Dominus</b> — plataforma de serviços para condomínios — com <b>Rust</b> no backend, <b>Flutter</b> no mobile e <b>Next.js</b> no admin.</p>
 
-<p>Passionate about software development. With experience and skills in <b>Web Development</b> using technologies such as React, Node.js and SQL and NoSQL databases. Here you will find more than <b>20 projects</b> developed by me in the last months. I've been working on Front-End, Back-End and Full Stack projects.</p>
+<h2>Tecnologias e Habilidades</h2>
+Algumas das tecnologias com que trabalho:
 
-<h2>Technologies and Skills</h2>
-Here are some of the technologies I work with:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" />       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="70" height="70"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="70" height="70"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="70" height="70"/>
 
-Node | React | PostgreSQL | JavaScript | Express | MongoDB | CSS | Styled-Components | Prisma | Jest | Docker
+Rust | Flutter | TypeScript | Next.js | PostgreSQL | Redis | Docker
 
+<br/>
 
-These are just some of the skills and technologies I master. I'm always open to learning and exploring new tools and technologies.
-
-![Snake animation](https://github.com/Marceloleda/Marceloleda/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Marceloleda/Marceloleda/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/Marceloleda/Marceloleda/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <div>
 <a href="https://github.com/Marceloleda">
@@ -27,13 +24,9 @@ These are just some of the skills and technologies I master. I'm always open to 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marceloleda&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
-  <h2>Talk with me:</h2>  
-  
+<h2>Fale comigo:</h2>
+
 <div>
-<a href = "mailto:marcelo.leda@icomp.ufam.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:marcelofilho2000.mf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcelo-leda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Marceloleda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-  
-
-
