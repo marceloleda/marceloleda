@@ -1,6 +1,6 @@
 <h1>Olá, eu sou Marcelo Leda! 👋</h1>
 
-<p>Desenvolvedor de software apaixonado por construir produtos que resolvem problemas reais. Atualmente desenvolvendo o <b>Vesta Dominus</b> — plataforma de serviços para condomínios — com <b>Rust</b> no backend, <b>Flutter</b> no mobile e <b>Next.js</b> no admin.</p>
+<p>Desenvolvedor de software apaixonado por construir produtos que resolvem problemas reais. Trabalho com <b>Rust</b>, <b>Flutter</b> e <b>Next.js</b> para criar aplicações robustas do backend ao mobile.</p>
 
 <h2>Tecnologias e Habilidades</h2>
 Algumas das tecnologias com que trabalho:
